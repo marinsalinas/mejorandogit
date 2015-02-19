@@ -1,0 +1,41 @@
+commit ab241711c74d03e4ac298f25847e0dcbca91809d
+Author: Marín Salinas <marinssalinas@gmail.com>
+Date:   Thu Feb 19 00:07:19 2015 -0600
+
+    Portafolio
+
+commit dbc9e48caf00929a40e0e5ec96a7405c4ea4549c
+Author: Marín Salinas <marinssalinas@gmail.com>
+Date:   Thu Feb 19 00:05:18 2015 -0600
+
+    Descripción
+
+commit 1e8349d4f50ab2adb16b7db6975c8a8f57223288
+Author: Marín Salinas <marinssalinas@gmail.com>
+Date:   Thu Feb 19 00:02:50 2015 -0600
+
+    Redes Sociales
+
+commit 5bb06e3db879c88810e5ce161ac0037946f4f3fd
+Author: Marín Salinas <marinssalinas@gmail.com>
+Date:   Wed Feb 18 23:59:01 2015 -0600
+
+    Perfil Web
+
+commit 1c8e572e90865229d0baee87d8589c50d7b3f8b2
+Author: Marín Salinas <marinssalinas@gmail.com>
+Date:   Wed Feb 18 23:55:52 2015 -0600
+
+    Cambio de foto marin
+
+commit 72633a2816bd2f327ee2e802b792d660ae87bd93
+Author: Marín Salinas <marinssalinas@gmail.com>
+Date:   Tue Feb 17 10:41:37 2015 -0600
+
+    He agregado mi imagen y mi nombre
+
+commit 38de41e573e9e1df868cf553eca7fd517e458817
+Author: Marín Salinas <marinssalinas@gmail.com>
+Date:   Mon Feb 16 16:47:14 2015 -0600
+
+    Estos son los archivos base de mi portafolio
