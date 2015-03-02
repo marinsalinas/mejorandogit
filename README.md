@@ -1,2 +1,2 @@
 # mejorandogit
-Ejercicio principal del curso de Git y GitHub, de Marin Salinas 
+Ejercicio principal del curso de Git y GitHub, de Marin Salinas :)
